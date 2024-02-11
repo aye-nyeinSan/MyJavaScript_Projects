@@ -3,3 +3,4 @@
 -  Study Timer  [https://github.com/aye-nyeinSan/Timer]
 -  BMI_Calculator [https://github.com/aye-nyeinSan/BMI_calculator]
 -  WeatherForcast [https://github.com/aye-nyeinSan/weatherforcastWithAPI]
+-  SimonGame (Memory Game) [https://github.com/aye-nyeinSan/SimonGame_Javascript]
